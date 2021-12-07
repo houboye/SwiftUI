@@ -1,0 +1,16 @@
+PODS:
+  - SwiftState (6.0.0)
+
+DEPENDENCIES:
+  - SwiftState
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SwiftState
+
+SPEC CHECKSUMS:
+  SwiftState: 5696580d3b91656d1c67773ca5c6d5e51610c711
+
+PODFILE CHECKSUM: b8b732cdaec996f046a49654e8258593663b6117
+
+COCOAPODS: 1.11.2
